@@ -1,0 +1,6 @@
+Livro [ISBN=null, autores=[Jacob Grimm, Wilhelm Grimm], editora=Abril Morumbi, titulo=Branca de neve e os sete anões]
+Jornal [periodicidade=null, versao=CORES, editora=null, titulo=Diário de notícias]
+Livro [ISBN=972-20-0824-2, autores=[Jean-Baptiste Duroselle], editora=Lisboa: Dom Quixote, titulo=História da Europa]
+Jornal [periodicidade=BIMESTRAL, versao=null, editora=null, titulo=O gafanhoto]
+Livro [ISBN=null, autores=[Henri Charrière], editora=Amadora: Bertrand, titulo=Papillon]
+Revista [ISSN=0874-727X, periodicidade=null, editora=Aveiro: C.M.A., titulo=Revista municipal]

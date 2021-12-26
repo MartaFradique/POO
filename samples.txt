@@ -1,0 +1,4 @@
+Tipo	Título	Editora	Autor(es)	ISBN/ISSN
+1	Papillon	Amadora: Bertrand	Henri Charrière
+2	Revista municipal	Aveiro: C.M.A.
+1	História da Europa	Lisboa: Dom Quixote Jean-Baptiste Duroselle	972-20-0824-2 
